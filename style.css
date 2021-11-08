@@ -1,0 +1,30 @@
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+
+  #signs{
+    font-size: 18px;
+    margin: 50px;
+  }
+
+  #Take{
+    border-style: dashed;
+    width: 200px;
+    height: 200px;
+}
+
+#Captured{
+    width: 200px;
+    height: 200px;
+}
+
+label{
+    background-color: aqua;
+    color: blue;
+}
+
+body{
+    background-color: purple;
+}
